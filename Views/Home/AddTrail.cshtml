@@ -1,0 +1,32 @@
+﻿@model lost_in_woods.Models.Trail
+<h1>Add a New Trail:</h1>
+<br>
+<br>
+<form asp-controller="Home" asp-action="add" method="post">
+    <span class="error" asp-validation-for="TrailName"></span><br>
+    <label asp-for="TrailName">Trail Name:</label>
+    <input asp-for="TrailName" type="text" /><br><br>
+    <span class="error" asp-validation-for="Description"></span><br>
+    <label asp-for="Description">Description:</label>
+    <input asp-for="Description" type="text" /><br><br>
+    <span class="error" asp-validation-for="TrailLength"></span><br>
+    <label asp-for="TrailLength">Trail Length:</label>
+    <input asp-for="TrailLength" type="text" /><br><br>
+    <span class="error" asp-validation-for="Elevation"></span><br>
+    <label asp-for="Elevation">Elevation:</label>
+    <input asp-for="Elevation" type="text" /><br><br>
+    <span class="error" asp-validation-for="Longitude"></span><br>
+    <label asp-for="Longitude">Longitude:</label>
+    <input asp-for="Longitude" type="text" />
+    <span class="error" asp-validation-for="Latitude"></span>
+    <label asp-for="Latitude">Latitude:</label>
+    <input asp-for="Latitude" type="text" /><br><br>
+    <button type="submit">Add Trail</button>
+</form>
+
+
+<style>
+    .error {
+        color: red;
+    }
+</style>

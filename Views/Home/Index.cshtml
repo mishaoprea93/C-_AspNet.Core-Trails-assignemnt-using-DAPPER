@@ -1,0 +1,22 @@
+﻿<h1>List of local hiking trails!</h1>
+<br>
+<br>
+
+<table class="table table-bordered">
+    <thead>
+        <tr>
+            <th>Trail Name:</th>
+            <th>Trail Length:</th>
+            <th>Elevation Change:</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach(var trail in ViewBag.trails){
+        <tr>
+            <td><a href="Home/show/@trail.id">@trail.TrailName</a></td>
+            <td>@trail.TrailLength miles</td>
+            <td>@trail.Elevation feet</td>
+        </tr>
+        }
+    </tbody>
+</table>

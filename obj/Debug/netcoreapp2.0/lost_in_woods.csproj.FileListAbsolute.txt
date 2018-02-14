@@ -1,0 +1,10 @@
+/Users/mishanea/Documents/Coding_Dojo/c#_stack/C#_net.Core/lost_in_woods/bin/Debug/netcoreapp2.0/lost_in_woods.deps.json
+/Users/mishanea/Documents/Coding_Dojo/c#_stack/C#_net.Core/lost_in_woods/bin/Debug/netcoreapp2.0/lost_in_woods.runtimeconfig.json
+/Users/mishanea/Documents/Coding_Dojo/c#_stack/C#_net.Core/lost_in_woods/bin/Debug/netcoreapp2.0/lost_in_woods.runtimeconfig.dev.json
+/Users/mishanea/Documents/Coding_Dojo/c#_stack/C#_net.Core/lost_in_woods/bin/Debug/netcoreapp2.0/lost_in_woods.dll
+/Users/mishanea/Documents/Coding_Dojo/c#_stack/C#_net.Core/lost_in_woods/bin/Debug/netcoreapp2.0/lost_in_woods.pdb
+/Users/mishanea/Documents/Coding_Dojo/c#_stack/C#_net.Core/lost_in_woods/obj/Debug/netcoreapp2.0/lost_in_woods.csproj.CoreCompileInputs.cache
+/Users/mishanea/Documents/Coding_Dojo/c#_stack/C#_net.Core/lost_in_woods/obj/Debug/netcoreapp2.0/lost_in_woods.AssemblyInfoInputs.cache
+/Users/mishanea/Documents/Coding_Dojo/c#_stack/C#_net.Core/lost_in_woods/obj/Debug/netcoreapp2.0/lost_in_woods.AssemblyInfo.cs
+/Users/mishanea/Documents/Coding_Dojo/c#_stack/C#_net.Core/lost_in_woods/obj/Debug/netcoreapp2.0/lost_in_woods.dll
+/Users/mishanea/Documents/Coding_Dojo/c#_stack/C#_net.Core/lost_in_woods/obj/Debug/netcoreapp2.0/lost_in_woods.pdb
